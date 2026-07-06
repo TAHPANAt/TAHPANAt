@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm a 1st-year Engineering student at **Suranaree University of Technology (SUT)**.
+- 🎓 I'm a 4th-year Engineering student at **Suranaree University of Technology (SUT)**.
 - 💻 Currently building tools like **ShareU** and **Resource Management Platforms**.
 - ⚙️ I enjoy tinkering with **Go, React, TypeScript**, and integrating hardware like Raspberry Pi for **Smart Face Attendance** systems.
 - 📡 Expanding my knowledge in Computer Networking (VLAN, ACL, IPv6) and Data Science (Python).
